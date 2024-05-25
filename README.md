@@ -1,6 +1,6 @@
 # SRAMImportExporter_forMSX
 
-MSX用ROM版「HYDLIDE2」を入手しプレーをするも、このソフトのプレーデータの保存は内蔵のSRAMのみとなっています。  
+MSX用ROM版「HYDLIDE2」を入手しプレーをするも、このソフトのプレイデータの保存は内蔵のSRAMのみとなっています。  
 製品自体が古く、いつ電池が切れて思い出のプレーデータが消えてもおかしくないため、そうなる前にセーブデータを外に出せないかと思い、このプログラムを作成しました。  
 <img src="https://github.com/IKATEN-X/SRAMImportExporter_forMSX/blob/main/image1.jpg" width="320">  
   

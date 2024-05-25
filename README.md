@@ -33,5 +33,6 @@ FE 00 D0 FF D7 00 D0
 最後に、  
 BASIC中でバンク切り替えを行っていますが、ゲームのメガROMフォーマットに合わせて、切り替えを書き換え、書き出すサイズを変えたら他のゲームでも流用できるかもしれません。 
 ハイドライドⅡのSRAMセグメントは10H(16)でサイズは2kバイト(2048バイト）です。  
-[こちら]([https://pages.github.com/](https://www.msx.org/wiki/MegaROM_Mappers))に詳しい情報があります。
+[こちら](https://www.msx.org/wiki/MegaROM_Mappers)に詳しい情報があります。
+
 

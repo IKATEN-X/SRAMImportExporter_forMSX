@@ -2,8 +2,7 @@
 
 MSX用ROM版「HYDLIDE2」を入手しプレーをするも、このソフトのプレーデータの保存は内蔵のSRAMのみとなっています。  
 製品自体が古く、いつ電池が切れて思い出のプレーデータが消えてもおかしくないため、そうなる前にセーブデータを外に出せないかと思い、このプログラムを作成しました。  
-![Image 1](https://github.com/IKATEN-X/SRAMImportExporter_forMSX/blob/main/image1.jpg)
-  
+<img src="https://github.com/IKATEN-X/SRAMImportExporter_forMSX/blob/main/image1.jpg" width="320">
 やっていることは、そんなに難しくなく、メガロム中のSRAMのあるバンクに切り替えて、BASICから読み出しBSAVE、もしくは書き込んでいるだけです。  
 
 使用前に...  

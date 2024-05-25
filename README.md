@@ -17,6 +17,7 @@ MSX用ROM版「HYDLIDE2」を入手しプレーをするも、このソフトの
 
 RUNすると、インポートかエクスポートかを聞きますので画面に従って、I（インポート）かE（エクスポート）を選んでください。  
 <img src="https://github.com/IKATEN-X/SRAMImportExporter_forMSX/blob/main/image2.jpg" width="320">  
+最初に必ずエクスポート操作をして、正常に読み取れるかお試しすることをお勧めします。  
 
 エクスポートしたデータは、WebMSX（他のエミュレーターでのSRAMデータは検証していません）で利用することができます。  
 ただし、BSAVE形式のファイルになっているので、WebMSXで使う前にBSAVEのヘッダーの7バイトをバイナリエディタ等で削除する必要があります。  
